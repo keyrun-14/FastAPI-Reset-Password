@@ -26,7 +26,7 @@ you will be redirected to swagger doc
 - swagger document looks like this.
 
 
-![](FastAPI-Reset-Password/resources/swagger_doc.png)
+![](resources/swagger_doc.png)
 ## Hands on
 - request body as shown in pictures.
 - Register
